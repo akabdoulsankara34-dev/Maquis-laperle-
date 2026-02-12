@@ -1,0 +1,256 @@
+{
+  "categories": [
+    {
+      "id": "Liqueur",
+      "name": "Liqueur",
+      "emoji": "🍷",
+      "products": [
+        {
+          "id": "Moët",
+          "name": "Moët",
+          "emoji": "🍾",
+          "description": "Champagne prestigieux élégant et raffiné au bulles fines et aux arômes fruités et floral",
+          "price": 50000
+        },
+        {
+          "id": "Whisky double black",
+          "name": "Double black",
+          "emoji": "🥃",
+          "description": "Intense corsé arômes fumés et boisés",
+          "price": 45000
+        },
+        {
+          "id": "Whisky red label",
+          "name": "Red label",
+          "emoji": "🥃",
+          "description": "Blended léger vif aux arômes épicés et légèrement fumé",
+          "price": 40000
+        },
+        {
+          "id": "Whisky Jack grand",
+          "name": "Jack grand",
+          "emoji": "🥃",
+          "description": "Spiritueux raffiné au goût riche et légèrement corsé",
+          "price": 35000
+        },
+        {
+          "id": "Whisky Johnnie",
+          "name": "Johnnie",
+          "emoji": "🥃",
+          "description": "Raffiné et équilibré aux arômes maltés et légèrement fumés",
+          "price": 25000
+        },
+        {
+          "id": "Whisky 19 crim Am",
+          "name": "19 crim Am",
+          "emoji": "🥃",
+          "description": "Spiritueux au goût riche et aromatique des notes boisée et légèrement épicées",
+          "price": 15000
+        },
+        {
+          "id": "Whisky 19 crim",
+          "name": "19 crim",
+          "emoji": "🥃",
+          "description": "Goût riche et aromatique avec notes boisées et légèrement épicées",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "id": "Vin",
+      "name": "Vin",
+      "emoji": "🍷",
+      "products": [
+        {
+          "id": "Vin muscador",
+          "name": "Mouscador",
+          "emoji": "🍷",
+          "description": "Vin pétillant doux à la saveurs fruitée et au goût légèrement sucré",
+          "price": 7000
+        },
+        {
+          "id": "Vin xana",
+          "name": "Xana",
+          "emoji": "🍷",
+          "description": "Vin doux et agréable",
+          "price": 6000
+        },
+        {
+          "id": "Vin baron",
+          "name": "Baron",
+          "emoji": "🍷",
+          "description": "Doux et élégant a la texture légère et l'arôme fruité",
+          "price": 10000
+        },
+        {
+          "id": "Vin Agor",
+          "name": "Agor",
+          "emoji": "🍷",
+          "description": "Doux et agréable",
+          "price": 10000
+        },
+        {
+          "id": "Vin fiesta",
+          "name": "Fiesta",
+          "emoji": "🍷",
+          "description": "Pétillant doux goût sucré ses bulles fines et son arôme fruité",
+          "price": 6000
+        },
+        {
+          "id": "Vin chenet blanc",
+          "name": "chenet blanc",
+          "emoji": "🍷",
+          "description": "Vin blanc élégant doux équilibré aux arômes fruités et floraux",
+          "price": 10000
+        },
+        {
+          "id": "Vin chenet rouge",
+          "name": "Chenet rouge",
+          "emoji": "🍷",
+          "description": "Élégant et rafraîchissant goût légèrement doux et équilibré",
+          "price": 9000
+        },
+        {
+          "id": "Vin four spécial",
+          "name": "Four spécial",
+          "emoji": "🍷",
+          "description": "Vin élégant se déguste à deux ou plusieurs moment spécial",
+          "price": 5000
+        }
+      ]
+    },
+    {
+      "id": "Bière",
+      "name": "Bière",
+      "emoji": "🍺",
+      "products": [
+        {
+          "id": "Bière Castel",
+          "name": "Petite Castel",
+          "emoji": "🍺",
+          "description": "La blonde légère avec son goût équilibré et sa douce amertume",
+          "price": 700
+        },
+        {
+          "id": "Bière beaufort",
+          "name": "Petite Beaufort",
+          "emoji": "🍺",
+          "description": "La douce rafraîchissante avec son goût légèrement malté et une amertume modérée",
+          "price": 700
+        },
+        {
+          "id": "Guinness",
+          "name": "Petite Guinness",
+          "emoji": "🍺",
+          "description": "Stout noire riche onctueuse à l'arôme torréfié et la mousse crémeuse",
+          "price": 1000
+        },
+        {
+          "id": "Bière doppel",
+          "name": "Doppel",
+          "emoji": "🍺",
+          "description": "Doppelbock riche maltée sucré caramélisée et une texture légèrement corsée",
+          "price": 1000
+        },
+        {
+          "id": "Bière Heineken",
+          "name": "Heineken",
+          "emoji": "🍺",
+          "description": "Blonde légère rafraîchissante équilibré et légèrement amer",
+          "price": 1200
+        },
+        {
+          "id": "Bière bière",
+          "name": "Desperado",
+          "emoji": "🍺",
+          "description": "Bière aromatisée a la tequila légère et rafraîchissante",
+          "price": 1200
+        },
+        {
+          "id": "Bière fax",
+          "name": "Fax",
+          "emoji": "🍺",
+          "description": "Blonde légère doux équilibré avec une amertume modérée",
+          "price": 1200
+        },
+        {
+          "id": "Bière chill",
+          "name": "Chill",
+          "emoji": "🍺",
+          "description": "Bière légère",
+          "price": 800
+        }
+      ]
+    },
+    {
+      "id": "sucrerie,Cocktail",
+      "name": "Sucrerie",
+      "emoji": "🍹",
+      "products": [
+        {
+          "id": "Boisson, malta",
+          "name": "Malta",
+          "emoji": "🥤",
+          "description": "Boisson maltée non alcoolisée",
+          "price": 800
+        },
+        {
+          "id": "Boisson malta",
+          "name": "Malta canette",
+          "emoji": "🥤",
+          "description": "Boisson maltée et non alcoolisée",
+          "price": 800
+        },
+        {
+          "id": "Doppelbock énergie",
+          "name": "Doppel Énergie",
+          "emoji": "🍺",
+          "description": "Boisson énergisante a base malt légèrement sucrée",
+          "price": 800
+        },
+        {
+          "id": "Boisson énergisante",
+          "name": "Xl",
+          "emoji": "🥤",
+          "description": "Coup de boost",
+          "price": 800
+        },
+        {
+          "id": "Eau",
+          "name": "Petit Eau lafi",
+          "emoji": "💧",
+          "description": "Water is life",
+          "price": 500
+        },
+        {
+          "id": "Boisson Sucrerie coca sprite fanta..",
+          "name": "Petite bouteille sucrerie",
+          "emoji": "🥤",
+          "description": "Gardons le 💫",
+          "price": 600
+        },
+        {
+          "id": "Boisson sucrerie",
+          "name": "Grande bouteille",
+          "emoji": "🥤",
+          "description": "Boisson gazeuses",
+          "price": 700
+        },
+        {
+          "id": "Nectar de mangue cocktail",
+          "name": "Dafani petit",
+          "emoji": "🍹",
+          "description": "Nectar de fruits doux et rafraîchissante",
+          "price": 1000
+        },
+        {
+          "id": "Nectar de mangue cocktail",
+          "name": "Dafani grand",
+          "emoji": "🍹",
+          "description": "Nectar de fruits doux et rafraîchissante au mélange tropical",
+          "price": 1500
+        }
+      ]
+    }
+  ]
+}
